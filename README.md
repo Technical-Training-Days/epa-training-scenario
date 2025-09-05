@@ -30,7 +30,12 @@ Follow the same steps again to unzip this one too.
 ### Step 4 – Open the Training  
 1. Open the new folder you just unzipped.  
 2. Go into the **Content** folder.  
-3. Double-click on **index.html** (or *idenx.html*) – this will launch the training in your web browser.  
+3. Double-click on **index.html** (sometimes called *idenx.html*) – this will launch the training in your web browser.  
+
+---
+
+💡 **If you cannot open the training:**  
+There is also a **non-interactive PDF version** available. This has the same information but without the interactive activities, so you can still follow the content if needed.  
 
 ---
 

@@ -1,1 +1,47 @@
-# epa-training-scenario
+# Introduction to EPA Training
+
+Welcome to your **End Point Assessment (EPA) Preparation**.  
+
+This training is designed to help you understand what the EPA is, how it works, and how you can prepare effectively. Think of it as your roadmap for the final stage of your apprenticeship.
+
+---
+
+## What is EPA?
+
+- **EPA** stands for *End Point Assessment*.  
+- It takes place at the end of your apprenticeship.  
+- Its purpose is to check that you are fully competent in the knowledge, skills, and behaviours (KSBs) required by your apprenticeship standard.  
+- Your EPA result determines your final grade.
+
+---
+
+## How is EPA Assessed?
+
+There are **two assessment methods**:
+
+1. **Scenario Demonstration with Questioning**  
+   - You’ll complete practical tasks based on realistic workplace scenarios.  
+   - These cover areas such as *data gathering, analysis, validation,* and *presentation*.  
+   - You will “think aloud” while working, and the assessor may ask follow-up questions.  
+
+2. **Professional Discussion (with Portfolio)**  
+   - A structured conversation with an assessor.  
+   - You’ll discuss your portfolio, explain your work, and reflect on what you’ve learned.  
+   - This will last around 60 minutes, with at least 10 open questions.
+
+---
+
+## What You Will Gain from this Training
+
+By the end of this training, you will:  
+
+- Understand the full **EPA process**.  
+- Be confident in preparing for the **Scenario Demonstration**.  
+- Know how to approach the **Professional Discussion**.  
+- Have practice with example scenarios and assessments.  
+
+---
+
+⚡ **Tip:** The EPA is not just about showing what you know, but also about demonstrating how you work, solve problems, and reflect on your practice. Treat it as an opportunity to showcase your skills and professionalism.  
+
+---

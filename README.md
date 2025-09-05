@@ -2,7 +2,15 @@
 
 Welcome to your **End Point Assessment (EPA) Preparation**.  
 
-This training is designed to help you understand what the EPA is, how it works, and how you can prepare effectively. Think of it as your roadmap for the final stage of your apprenticeship.
+---
+
+## How to Access This Training
+
+1. **Download the ZIP file** provided.  
+2. **Right-click** on the ZIP file and choose **Extract All…** (or similar option, depending on your computer).  
+3. Open the extracted folder.  
+4. Go into the **content** folder.  
+5. Double-click on **index.html** – this will open the training in your web browser.  
 
 ---
 

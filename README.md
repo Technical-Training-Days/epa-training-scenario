@@ -2,7 +2,40 @@
 
 Welcome to your **End Point Assessment (EPA) Preparation**.  
 
-This training is designed to help you understand what the EPA is, how it works, and how you can prepare effectively. Think of it as your roadmap for the final stage of your apprenticeship.
+---
+
+## How to Access This Training
+
+### Step 1 – Download
+1. At the top of the page, click **Code > Download ZIP**.  
+2. The ZIP file will save to your computer (usually in the **Downloads** folder).  
+
+### Step 2 – Unzip (Extract)
+A ZIP file is like a sealed package that holds other files inside.  
+To **unzip** it:  
+
+- **On Windows:**  
+  1. Right-click on the ZIP file.  
+  2. Choose **Extract All…**  
+  3. Pick a location (e.g., Desktop) and click **Extract**.  
+
+- **On Mac:**  
+  1. Double-click the ZIP file.  
+  2. A folder with the same name will appear, containing the files.  
+
+### Step 3 – Repeat  
+Inside the unzipped folder you will see **another ZIP file**.  
+Follow the same steps again to unzip this one too.  
+
+### Step 4 – Open the Training  
+1. Open the new folder you just unzipped.  
+2. Go into the **Content** folder.  
+3. Double-click on **index.html** (sometimes called *idenx.html*) – this will launch the training in your web browser.  
+
+---
+
+💡 **If you cannot open the training:**  
+There is also a **non-interactive PDF version** available. This has the same information but without the interactive activities, so you can still follow the content if needed.  
 
 ---
 
